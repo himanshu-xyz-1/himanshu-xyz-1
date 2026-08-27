@@ -50,15 +50,6 @@
 
 <br>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=himanshu-xyz-1&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-xyz-1&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-</p>
-
-<br>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </p>
