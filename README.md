@@ -1,59 +1,56 @@
 <h1 align="center">Hi there, I'm Himanshu Joshi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Frontend+Developer;Python+Enthusiast;Building+My+Programming+Journey+🚀;Always+Learning,+Always+Building!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000&background=00000000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Systems+%26+Applied+LLM+Engineer;Building+Autonomous+AI+Agents+⚡;Local+LLM+Inference+%26+Tool+Calling;Arch+Linux+%26+CUDA+Systems+Engineer&font=Fira%20Code&center=true&width=520&height=45&color=3b82f6&vCenter=true&size=20&pause=1000&background=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=40" />
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/himaansssshu/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" />
+  <a href="https://x.com/" target="_blank">
+    <img src="https://img.shields.io/badge/X-(formerly_Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:himanshu.zyx7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/himanshu-xyz-1">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🌱 Learning & Building
+### ⚡ What I'm Building & Focusing On:
 
-- 🐍 **Python fundamentals & problem solving** — sharpening the basics one project at a time
-- 🛠️ **Personal Python projects** — hands-on practice over theory
-- ⚡ **Fun fact:** Currently building my programming journey from scratch — no shortcuts, just consistent progress!
+- 🤖 **Autonomous AI Agents & Tool Calling:** Engineering intelligent agents capable of self-directed decision making, tool/function execution, and real-time environment interaction.
+- 🧠 **Local LLM Systems & CUDA Acceleration:** Running, testing, and benchmarking open-weights models (Llama 3.2, Qwen) on local NVIDIA RTX 3060 hardware with Ollama.
+- ⚡ **High-Throughput Backends & Structured Pipelines:** Building reliable data extraction pipelines with Pydantic structured outputs, token streaming, and low-latency API architectures.
+- 🐧 **Linux-Native Engineering:** Developing directly inside an Arch Linux / Hyprland / Wayland ecosystem with native system tooling and custom automation daemons.
 
-<br>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</p>
-
-### 🧰 Languages and Tools
+### 🧰 Tech Stack & Systems:
 
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
-<br>
+---
+
+### 📌 Core Areas of Work:
+* 🤖 **Local AI Agents & LLM Tool Callers:** Streaming conversational agents with memory, autonomous function calling, and system diagnostics.
+* ⚡ **Structured Data & Log Extraction:** Zero-shot and few-shot log parsing converting messy server diagnostics into validated JSON schemas.
+* 🛠️ **Native Linux Daemons:** Background system services, event listening, and hardware-accelerated desktop utilities.
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <i>⭐️ Thanks for stopping by — more projects coming soon!</i>
+  <i>"Velocity over theory. Shipping production-ready AI agents and high-performance systems."</i>
 </p>
