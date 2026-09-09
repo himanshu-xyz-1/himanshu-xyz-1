@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm Himanshu Joshi 👋</h1>
+# Hi, I'm Himanshu Joshi 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Applied+AI+Engineer+⚡;Building+Autonomous+AI+Agents+🛠️;Local+LLMs+on+NVIDIA+CUDA+🚀;High-Throughput+Streaming+%26+Structured+Pipelines+🧠&font=Fira+Code&center=true&width=560&height=45&color=38bdf8&vCenter=true&size=20&pause=1000&background=00000000" alt="Himanshu Joshi" />
-</p>
+### ⚡ Applied AI Engineer | Autonomous Agents & Local LLMs
+> **Building high-throughput local AI workflows, tool-calling pipelines, and Linux backends on Arch Linux.**
 
-<p align="center">
+<p align="left">
   <a href="https://x.com/" target="_blank">
     <img src="https://img.shields.io/badge/X-(formerly_Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
@@ -22,8 +21,8 @@
 
 ### ⚡ What I Build & Focus On:
 
-- 🤖 **Autonomous AI Agents & Tool Calling:** Building agents that interact with external environments, execute local Linux tools, and make dynamic multi-step decisions.
-- 🧠 **Local LLM Systems & CUDA:** Deploying and benchmarking open-source models (Llama 3.2, Qwen) locally on Linux with Ollama and NVIDIA CUDA hardware acceleration.
+- 🤖 **Autonomous AI Agents & Tool Calling:** Developing intelligent agents that interact with external environments, execute local Linux tools, and make dynamic multi-step decisions.
+- 🧠 **Local LLM Systems & CUDA:** Deploying and benchmarking open-weights models (Llama 3.2, Qwen) locally on Linux with Ollama and NVIDIA CUDA hardware acceleration.
 - ⚡ **Structured Data Pipelines:** Designing zero-hallucination data extraction pipelines with Pydantic schema validation and low-latency token streaming.
 - 🐧 **Linux-Native Engineering:** Developing on Arch Linux with custom shell automation, systemd services, and native backend workflows.
 
