@@ -4,7 +4,7 @@
 > **Building high-throughput local AI workflows, tool-calling pipelines, and Linux backends on Arch Linux.**
 
 <p align="left">
-  <a href="https://x.com/" target="_blank">
+  <a href="https://x.com/himanshu1xy" target="_blank">
     <img src="https://img.shields.io/badge/X-(formerly_Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
@@ -25,6 +25,12 @@
 - 🧠 **Local LLM Systems & CUDA:** Deploying and benchmarking open-weights models (Llama 3.2, Qwen) locally on Linux with Ollama and NVIDIA CUDA hardware acceleration.
 - ⚡ **Structured Data Pipelines:** Designing zero-hallucination data extraction pipelines with Pydantic schema validation and low-latency token streaming.
 - 🐧 **Linux-Native Engineering:** Developing on Arch Linux with custom shell automation, systemd services, and native backend workflows.
+
+---
+
+### 🌐 Open Source Contributions:
+
+- 🚀 **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** (AI Observability & Evaluations): Diagnosed and fixed evaluator exception tracing with unit tests in online evaluation sweeper engine ([PR #16204](https://github.com/Arize-ai/phoenix/pull/16204)).
 
 ---
 
