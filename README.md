@@ -28,12 +28,6 @@
 
 ---
 
-### 🌐 Open Source Contributions:
-
-- 🚀 **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** (AI Observability & Evaluations): Diagnosed and fixed evaluator exception tracing with unit tests in online evaluation sweeper engine ([PR #16204](https://github.com/Arize-ai/phoenix/pull/16204)).
-
----
-
 ### 🧰 Tech Stack & Tools:
 
 <p align="left">
