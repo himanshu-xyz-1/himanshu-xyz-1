@@ -55,5 +55,5 @@
 
 > *"Velocity over theory. Shipping production-grade AI agents, local LLM infrastructure, and high-performance backends daily."*
 
-* 💬 **Targeting:** Founding AI Engineer / Applied AI Engineer roles at fast-moving startups.
+* 💬 **Targeting:** Founding AI Engineer / Applied AI Engineer & Backend engineer roles at fast-moving startups.
 * 📫 **Direct Contact:** [himanshu.zyx7@gmail.com](mailto:himanshu.zyx7@gmail.com)
