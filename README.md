@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Text for your Bio -->
   <a href="https://github.com/himanshu-xyz-1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Applied+AI+Engineer;Building+Autonomous+Agents;Linux-Native+Engineering;Scaling+Local+LLMs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Backend+Engineer;Building+Autonomous+Agents;Linux-Native+Engineering;Scaling+Local+LLMs" alt="Typing SVG" />
   </a>
 
   <p align="center">
